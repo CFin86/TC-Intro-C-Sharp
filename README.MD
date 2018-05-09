@@ -1,7 +1,7 @@
 # Welcome to the TrueCoders Intro to C #
 
 ## Wifi : `TrueCoders Wifi`
-## Password: ` `
+## Password: `4TrueCodersOnly`
 
 * Download these two programs
 
