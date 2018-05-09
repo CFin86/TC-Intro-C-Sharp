@@ -1,5 +1,7 @@
 # Welcome to the TrueCoders Intro to C #
 
+https://cfin86.github.io/tc-intro/
+
 ## Wifi : `TrueCoders Wifi`
 ## Password: `4TrueCodersOnly!`
 
